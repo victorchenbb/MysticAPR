@@ -1,5 +1,5 @@
 // Auto-generated from deployments/sepolia/MysticAPR.json
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000';
+export const CONTRACT_ADDRESS = '0x5C838d393A132259750E6c4E61167f99FbE81857';
 export const TOKEN_DECIMALS = 1_000_000;
 export const AIRDROP_AMOUNT = '1,000';
 export const CONTRACT_ABI = [
